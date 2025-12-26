@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TomlChat": {
+      "commandName": "Project",
+      "commandLineArgs": "./test.toml"
+    }
+  }
+}
